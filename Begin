@@ -1,5 +1,0 @@
-<!DOCTYPE html>
-<head>
-    Left or right?
-</head>
-<img src="assets/hallway.jpg" alt="left hallway"
