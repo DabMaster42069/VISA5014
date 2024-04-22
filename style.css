@@ -49,10 +49,14 @@ p {
 .right-image {
     width: 400px;
     height: 600px;
-    align-items: center;
+    align-items: right;
 }
 
 img {
     width: auto;
     height: 100%;
+}
+
+.middle-image {
+    align-items: center;
 }
